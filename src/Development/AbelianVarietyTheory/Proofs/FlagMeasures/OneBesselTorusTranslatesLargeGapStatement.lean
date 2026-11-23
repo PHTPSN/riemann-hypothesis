@@ -13,7 +13,7 @@ public import Formalism.SharpRestriction.CuspSpanNormBounds.SBridge
 public import Formalism.LocalRingCardinality.DataTies
 public import Development.AbelianVarietyTheory.Statements.DiscreteSeriesShifts.ThmBpDS
 public import Development.AbelianVarietyTheory.Definitions.Jets.SideFam
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.FormalDegreeCompactDualIff
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.FormalDegreeCompactDualIff
 
 @[expose] public section
 

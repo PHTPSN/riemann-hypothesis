@@ -4,7 +4,7 @@ public import Mathlib
 public import Development.ResolutionOfSingularities.Statements
 public import Development.ResolutionOfSingularities.EmbeddedResolution.EtaleCoordinates.StrictNormalCrossingsClopen
 public import Development.ResolutionOfSingularities.EmbeddedResolution.EtaleCoordinates.StrictNormalCrossingsChartNormalization
-public import Development.AutomorphicSpectrum.PublishedTheorems.Geometry₂.NotSubsetOfDenseCompl
+public import Development.AutomorphicSpectrum.PublishedTheorems.Geometry2.NotSubsetOfDenseCompl
 
 @[expose] public section
 

@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.AbelianVarietyTheory.Definitions.Divisors.RatBasisLinearIndependentInt
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ExistsUniqueIsConnOfLift
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.ExistsUniqueIsConnOfLift
 
 @[expose] public section
 

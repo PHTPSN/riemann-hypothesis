@@ -14,7 +14,7 @@ public import Formalism.SharpRestriction.ParConsts
 public import Formalism.SharpRestriction.ParamsHeightRankConstant
 public import Formalism.SharpRestriction.Divisibility.ModuliIntegralCharts
 public import Formalism.SharpRestriction.Divisibility.WeightThresholdDefs
-public import Formalism.LocalRingCardinality.DataParams₂
+public import Formalism.LocalRingCardinality.DataParams2
 public import Formalism.LocalRingCardinality.DataDIVDefs
 public import Formalism.DegreeFormula.FlagDegFormula
 public import Formalism.SharpRestriction.Divisibility.LatticeTransfer

@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.DepthZeroCuspidalLL
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.DepthZeroCuspidalLL
 public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.RecTransportFieldIso
 public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BrauerDegreeZero
 public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.WeilDeligneInductionPrincipleStatement

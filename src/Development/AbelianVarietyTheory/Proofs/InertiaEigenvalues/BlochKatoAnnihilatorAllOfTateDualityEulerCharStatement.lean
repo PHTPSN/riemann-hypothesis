@@ -4,7 +4,7 @@ public import Mathlib
 public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.BlochKatoAnnihilatorAllOfTateDualityEulerChar
 public import Formalism.AdmissibleDesigns.RestrictedSevenEightOfFull
 public import Formalism.GaloisCohomology.LocalTateDualityK
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.RationalDualityOfAllCoefficients
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.RationalDualityOfAllCoefficients
 
 @[expose] public section
 

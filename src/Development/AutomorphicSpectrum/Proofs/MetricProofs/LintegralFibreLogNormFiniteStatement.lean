@@ -2,8 +2,8 @@ module
 
 public import Mathlib
 public import Development.AutomorphicSpectrum.Proofs.MetricProofs.LintegralFibreLogNormFinite
-public import Development.AutomorphicSpectrum.PublishedTheorems.Metrics₂.PoincareLelong
-public import Development.AutomorphicSpectrum.PublishedTheorems.Metrics₂.SheetDensityEqSetSheetDensity
+public import Development.AutomorphicSpectrum.PublishedTheorems.Metrics2.PoincareLelong
+public import Development.AutomorphicSpectrum.PublishedTheorems.Metrics2.SheetDensityEqSetSheetDensity
 public import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterRed
 public import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterRedF
 public import ReciprocityTheory.ReductiveGroups.ArithmeticGeometry.BirationalGeometry.InterGood

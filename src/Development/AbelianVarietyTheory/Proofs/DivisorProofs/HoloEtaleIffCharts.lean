@@ -3,7 +3,7 @@ module
 public import Mathlib
 public import ReciprocityTheory.L2DbarEstimates.Imports
 public import ReciprocityTheory.L2DbarEstimates.PlurisubharmonicCharts.FourSignHolds
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.L2ExtensionLogCanonical
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.L2ExtensionLogCanonical
 public import Development.AbelianVarietyTheory.Definitions.Divisors.EtaleEmpty
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EtaleHolomorphicIffChartHolomorphicStatement
 

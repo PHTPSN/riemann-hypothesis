@@ -4,7 +4,7 @@ public import Mathlib
 public import Development.DiscreteGroups.GlobalIrreducibility.DzTypeCut
 public import Development.DiscreteGroups.GlobalIrreducibility.LConvCut
 public import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.BernsteinUnitaryProductIrreducible
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.ChevalleyUnits
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.ChevalleyUnits
 
 @[expose] public section
 

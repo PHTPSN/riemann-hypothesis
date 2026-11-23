@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.LocalLanglandsGL
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.LocalLanglandsGL
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsFixedIff
 public import GroundTheory.LocalFields.PrincipalUnitsModule
 public import GroundTheory.LocalFields.PadicLogHom

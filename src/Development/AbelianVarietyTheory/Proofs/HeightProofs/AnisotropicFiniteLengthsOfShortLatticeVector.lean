@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.AbelianVarietyTheory.Proofs.HeightProofs.IsLieDataCircle
-public import Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices₂.ExistsIntMulIsIntegralOfTrace
+public import Development.AbelianVarietyTheory.PublishedTheorems.AdelicLattices2.ExistsIntMulIsIntegralOfTrace
 public import Development.AbelianVarietyTheory.Proofs.CovolumeBounds.ExistsNeZeroMemFractionalIdealNormSqLe
 
 @[expose] public section

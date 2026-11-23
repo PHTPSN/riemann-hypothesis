@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.AutomorphicSpectrum.Proofs.GlobalProofs.ExistsSmoothAffinePresentationPair
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.GeometricallyConnectedOfIsIsoRestrict
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.GeometricallyConnectedOfIsIsoRestrict
 public import Development.AutomorphicSpectrum.Proofs.GlobalProofs.EffCartierIffForallCartAt
 public import Development.AutomorphicSpectrum.Proofs.GlobalProofs.LocPrincipalSpan
 

@@ -5,7 +5,7 @@ public import CompanionTheory.HarishChandraModules.BesselParameterIntegrals.Smoo
 public import CompanionTheory.AutomorphicTheory.SchurLimitBounds.SchurOrthogonality.SchurH
 public import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.FormalDegreeSquareIntegrable.Unimod
 public import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.HighestWeightUniqueness.HpkMulMulHpkApply
-public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeries₂.Poulsen
+public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeries2.Poulsen
 
 @[expose] public section
 

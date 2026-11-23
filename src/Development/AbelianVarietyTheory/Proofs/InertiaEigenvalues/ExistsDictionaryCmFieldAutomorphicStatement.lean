@@ -5,7 +5,7 @@ public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsD
 public import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.FinIso
 public import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.RingSpecNormalisedCharacterEq
 public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.RecProdRecSatakeLL
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.StandardCosocleGL
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.StandardCosocleGL
 public import Formalism.SharpRestriction.LevelLetterCocycles.SphericalInertData
 
 @[expose] public section

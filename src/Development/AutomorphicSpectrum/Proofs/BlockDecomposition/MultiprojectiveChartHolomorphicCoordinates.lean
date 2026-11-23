@@ -2,8 +2,8 @@ module
 
 public import Mathlib
 public import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.ArakelovCycleHeights.QpSndStr
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ResidueDegreeOfIsClosedImmersion
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ArFormExists
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.ResidueDegreeOfIsClosedImmersion
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.ArFormExists
 public import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.IsPullHermPullLine
 public import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.MapPrBPtMP
 public import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DifferentiableOnEvProd

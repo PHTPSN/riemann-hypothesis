@@ -3,7 +3,7 @@ module
 public import Mathlib
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LeviNormalizesUnipotentRadicalBis
 public import Development.AbelianVarietyTheory.Definitions.Divisors.LocallyCompactSpaceAxis
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.EisensteinResidueLine
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.EisensteinResidueLine
 
 @[expose] public section
 

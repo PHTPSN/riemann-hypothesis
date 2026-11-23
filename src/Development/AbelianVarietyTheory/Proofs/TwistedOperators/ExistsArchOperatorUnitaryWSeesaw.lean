@@ -7,8 +7,8 @@ public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsSch
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsFiniteWeightComplementaryArchimedeanSchwarStatement
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaEqB
 public import Development.AbelianVarietyTheory.Definitions.Divisors.DiscreteSeriesHermitianUnique
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HoweDualityUnitary
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HoweDualityReal
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.HoweDualityUnitary
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.HoweDualityReal
 
 @[expose] public section
 

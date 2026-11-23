@@ -3,7 +3,7 @@ module
 public import Mathlib
 public import Development.DiscreteGroups.GlobalIrreducibility.DzApprox
 public import Development.DiscreteGroups.GlobalIrreducibility.DzNormV
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.LocalLanglandsGL
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.LocalLanglandsGL
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsFixedIff
 
 @[expose] public section

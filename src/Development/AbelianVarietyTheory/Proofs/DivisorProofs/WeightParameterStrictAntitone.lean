@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.GrothendieckDeformation
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.GrothendieckDeformation
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.StrictAntiOfStep
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeightBoundHoldsStatement
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HostBoundHolds

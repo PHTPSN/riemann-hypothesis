@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.ArthurClozelLocalSC
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.ArthurClozelLocalSC
 public import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.Lbc
 public import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.Langlands
 public import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.IsLevelProjLevelProj

@@ -1,8 +1,8 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.CuspDiscreteDecompositionGL
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.NotIsFinitePartOfBot
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.CuspDiscreteDecompositionGL
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.NotIsFinitePartOfBot
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HasCompactSupportSum
 public import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.SmMemArchSmooth
 public import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.OmegaOpCommLiB

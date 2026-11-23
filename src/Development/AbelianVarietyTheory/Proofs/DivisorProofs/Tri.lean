@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsL2OnDiagonalOfIsL2Metric
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.IsL2OnDiagonalOfIsL2Metric
 
 @[expose] public section
 

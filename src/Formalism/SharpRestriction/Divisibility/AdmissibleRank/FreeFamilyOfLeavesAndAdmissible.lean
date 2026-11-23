@@ -23,7 +23,7 @@ public import Formalism.SharpRestriction.Divisibility.PrinLevClass
 public import Formalism.SharpRestriction.Divisibility.PrimeDegreeVariant
 public import Formalism.SharpRestriction.Divisibility.LocalQuadraticParts
 public import Formalism.SharpRestriction.Divisibility.PlaceRankTwoOne
-public import Formalism.LocalRingCardinality.DataParams₂
+public import Formalism.LocalRingCardinality.DataParams2
 public import Formalism.LocalRingCardinality.DataDIVDefs
 public import Formalism.LocalRingCardinality.DataIdx
 public import Formalism.LocalRingCardinality.DataKap

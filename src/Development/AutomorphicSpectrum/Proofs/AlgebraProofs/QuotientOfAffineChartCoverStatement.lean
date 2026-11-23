@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.QuotientOfAffineChartCover
-public import Development.AutomorphicSpectrum.PublishedTheorems.Algebra₂.RegularHypothesesAndConclusion
+public import Development.AutomorphicSpectrum.PublishedTheorems.Algebra2.RegularHypothesesAndConclusion
 public import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.HasAffineChartId
 
 @[expose] public section

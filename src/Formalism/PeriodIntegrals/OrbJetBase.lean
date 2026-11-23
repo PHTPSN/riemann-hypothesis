@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
-public import Formalism.LocalRingCardinality.DataParams₂
+public import Formalism.LocalRingCardinality.DataParams2
 public import Formalism.LocalRingCardinality.DataJet
 public import Formalism.LocalRingCardinality.DataForced
 public import Formalism.LocalRingCardinality.DataDIVDefs

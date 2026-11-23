@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.PoitouTateNormalised
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.PoitouTateNormalised
 public import GroundTheory.LocalFields.MainTheorem
 public import GroundTheory.GlobalFields.LocalFieldAtPlace
 public import GroundTheory.LocalFields.LocalFourierHaar

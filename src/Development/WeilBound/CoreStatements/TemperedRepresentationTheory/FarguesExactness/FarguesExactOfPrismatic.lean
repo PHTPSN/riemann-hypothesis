@@ -1,13 +1,13 @@
 module
 
 public import Mathlib
-public import Development.AutomorphicSpectrum.PublishedTheorems.Algebra₂.FarguesExact
+public import Development.AutomorphicSpectrum.PublishedTheorems.Algebra2.FarguesExact
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HodgeTatePairingSandwich
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsIntegrallyClosedInOfIntegers
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HodgeTateSandwichOfPrismaticDieudonneStatement
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PDivGroupOmegaFiniteFreeAndPSqMemDlogSpanStatement
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.PrismaticDieudonneAt
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ExistsCobOneOfIntegral
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.PrismaticDieudonneAt
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.ExistsCobOneOfIntegral
 
 @[expose] public section
 

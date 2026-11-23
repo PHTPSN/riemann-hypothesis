@@ -3,7 +3,7 @@ module
 public import Development.WeilBound.RepresentationTheoryGL.ResidualSpectrum.SliceTensors.PStringStepA
 public import Development.WeilBound.RepresentationTheoryGL.ResidualSpectrum.SliceTensors.SdNormCpow
 public import Development.WeilBound.RepresentationTheoryGL.ResidualSpectrum.SliceTensors.PStringStepD
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.NotIsUnitaryAbsPow
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.NotIsUnitaryAbsPow
 
 @[expose] public section
 

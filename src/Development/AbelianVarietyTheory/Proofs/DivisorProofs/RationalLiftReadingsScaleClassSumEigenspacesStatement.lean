@@ -5,7 +5,7 @@ public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RationalLift
 public import Development.AbelianVarietyTheory.Definitions.Divisors.FormalDegreeUpperC
 public import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.ConjScalarAtOf
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ReadingsExistRow
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry₂.HoweUnram
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry2.HoweUnram
 
 @[expose] public section
 

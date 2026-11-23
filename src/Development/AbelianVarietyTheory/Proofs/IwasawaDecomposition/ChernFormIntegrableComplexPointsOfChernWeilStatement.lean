@@ -3,9 +3,9 @@ module
 public import Mathlib
 public import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ChernFormIntegrableComplexPointsOfChernWeil
 public import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.PolyRep
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.GoodTopChernForm
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ChernWeilNumbers
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.AntisymmFibrePointThree
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.GoodTopChernForm
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.ChernWeilNumbers
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.AntisymmFibrePointThree
 
 @[expose] public section
 

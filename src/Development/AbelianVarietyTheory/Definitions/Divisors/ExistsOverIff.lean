@@ -3,7 +3,7 @@ module
 public import Mathlib
 public import Development.AbelianVarietyTheory.Definitions.Divisors.IsThetaCompact
 public import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.SysExOfPol
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ToroidalChartsForFan
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.ToroidalChartsForFan
 public import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsToricRankOne
 
 @[expose] public section

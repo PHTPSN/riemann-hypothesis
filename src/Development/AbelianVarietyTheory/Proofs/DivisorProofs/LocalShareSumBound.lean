@@ -1,6 +1,6 @@
 module
 
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.GrothendieckDeformation
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.GrothendieckDeformation
 public import Development.AbelianVarietyTheory.Definitions.Divisors.CovolXOfCovol
 public import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
 public import Development.AbelianVarietyTheory.Definitions.Divisors.CuspIso
@@ -19,7 +19,7 @@ public import Development.AbelianVarietyTheory.Definitions.Divisors.BadElt
 public import Formalism.LocalToGlobal.GlobalTheory.ConcNWeight
 public import Formalism.PadicSubsetSums.StableGradedCounts.DominantNumbersEighthOfSharp
 public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LemmaLSeriesWeightsOfGreenCuspidalParametrisatio
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.GreenCuspidalIff
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.GreenCuspidalIff
 public import Formalism.LocalToGlobal.GlobalTheory.ConcNP
 
 @[expose] public section

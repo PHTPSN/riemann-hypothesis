@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import PositivityTheory.AutomorphicForms.PublishedInputs.NonzeroTypes.GIface
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.LocalLanglandsGL
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.LocalLanglandsGL
 public import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.Brauer
 
 @[expose] public section

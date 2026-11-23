@@ -4,7 +4,7 @@ public import Mathlib
 public import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.MirabolicDerivatives.LeibnizDerivatives.GenericProdIff
 public import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.OpenFns
 public import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ExistsFiniteSupport
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsGenericIffIsGenericFor
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.IsGenericIffIsGenericFor
 
 @[expose] public section
 

@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsCompactDualHaar
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.IsCompactDualHaar
 public import Development.AbelianVarietyTheory.Proofs.FoundationProofs.NonemptyCompactDualHaar
 public import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ContinuousMatExp
 public import ReciprocityTheory.GeometryOfNumbers.PluriharmonicAnalysis.LogDetSt

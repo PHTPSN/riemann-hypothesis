@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ExistsUniqueHcharOfFiniteOrder
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.ExistsUniqueHcharOfFiniteOrder
 public import GroundTheory.GlobalFields.GlobalArtinMap.Kernel
 public import GroundTheory.GlobalFields.ClassFieldConsequences.RayClassFieldLocal
 public import GroundTheory.GlobalFields.GlobalReciprocity.Frobenius

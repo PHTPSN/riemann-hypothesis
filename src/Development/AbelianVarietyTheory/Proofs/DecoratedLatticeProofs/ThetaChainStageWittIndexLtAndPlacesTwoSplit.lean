@@ -5,7 +5,7 @@ public import Development.AbelianVarietyTheory.Definitions.LatticeFrames.ChainPa
 public import Development.AbelianVarietyTheory.Definitions.LatticeFrames.ExistsIsParamFunOne
 public import Development.AbelianVarietyTheory.Proofs.FoundationProofs.WittIdxOfParallelSig
 public import Development.AbelianVarietyTheory.Definitions.LatticeFrames.IntegrandSZero
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ExistsNormLeHeightPow
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.ExistsNormLeHeightPow
 
 @[expose] public section
 

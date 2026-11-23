@@ -1,8 +1,8 @@
 module
 
 public import Mathlib
-public import Development.AutomorphicSpectrum.PublishedTheorems.Metrics₂.PoincareLelong
-public import Development.AutomorphicSpectrum.PublishedTheorems.Metrics₂.PoincareLelongInv
+public import Development.AutomorphicSpectrum.PublishedTheorems.Metrics2.PoincareLelong
+public import Development.AutomorphicSpectrum.PublishedTheorems.Metrics2.PoincareLelongInv
 public import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.AssemblyBase
 public import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PoincareLelongAlt
 public import GroundTheory.HeightsAndTheta.Heights.OrbitLimits.PotFinCons

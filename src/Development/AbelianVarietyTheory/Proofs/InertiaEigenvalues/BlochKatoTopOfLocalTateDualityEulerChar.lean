@@ -3,7 +3,7 @@ module
 public import Mathlib
 public import Formalism.SharpRestriction.LevelLetterCocycles.TableLineDegreeTwo
 public import Formalism.GaloisCohomology.LocalTateDualityK
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.RationalDualityOfAllCoefficients
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.RationalDualityOfAllCoefficients
 public import Formalism.SharpRestriction.LevelLetterCocycles.InvariantsGenerators
 public import Formalism.SharpRestriction.LevelLetterCocycles.ExtensionClauses
 public import Formalism.SharpRestriction.LevelLetterCocycles.HerrClassFieldOfNorms

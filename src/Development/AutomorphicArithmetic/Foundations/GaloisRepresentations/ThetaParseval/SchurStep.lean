@@ -5,7 +5,7 @@ public import Development.WeilBound.ThetaLifts.LatticeBasics.ContinuousFlat
 public import Development.WeilBound.ThetaLifts.LatticeBasics.SchToPol
 public import Development.WeilBound.ThetaLifts.TowerModels.PlaneHerm
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFockMap
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.BaseChangeDefiniteUnitary
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.BaseChangeDefiniteUnitary
 
 @[expose] public section
 

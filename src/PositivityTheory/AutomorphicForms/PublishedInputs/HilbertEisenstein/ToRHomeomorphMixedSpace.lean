@@ -3,7 +3,7 @@ module
 public import PositivityTheory.AutomorphicForms.PublishedInputs.HilbertEisenstein.Imports
 public import GroundTheory.GlobalFields.TateThesis.GaussianSchwartz
 public import GroundTheory.AutomorphicForms.GL2.SummableNormIffAndTsumEqCoset2
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ExistsUniqueHcharOfFiniteOrder
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.ExistsUniqueHcharOfFiniteOrder
 public import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.IsOpenIdeleSubgroupContainsCongruenceUnits
 
 @[expose] public section

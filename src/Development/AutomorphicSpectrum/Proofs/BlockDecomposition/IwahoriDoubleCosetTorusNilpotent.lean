@@ -3,7 +3,7 @@ module
 public import Mathlib
 public import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.DiagPairs
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MeasureCballZpow
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.GindikinKarpelevich
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.GindikinKarpelevich
 
 @[expose] public section
 

@@ -6,7 +6,7 @@ public import Development.AbelianVarietyTheory.Definitions.Divisors.ToRingActOpO
 public import Development.AbelianVarietyTheory.Definitions.Divisors.NonemptyHomFixRepTrivial
 public import Development.AbelianVarietyTheory.Definitions.ModuliSpaces.IsGaloisCover
 public import Development.AbelianVarietyTheory.Definitions.AbelianSchemeLaws.FirstCohomologyVanishesSpecOfIsLocalRing
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.CharChPartZero
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.CharChPartZero
 
 @[expose] public section
 

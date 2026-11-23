@@ -3,7 +3,7 @@ module
 public import Mathlib
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinitePlaceStandardCharLocallyConstantNontrivial
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.KerInfMemLocSpan
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.StrongMultiplicityOne
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.StrongMultiplicityOne
 public import GroundTheory.AutomorphicForms.MultiplicityOne.Injective
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SelfMemCell
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemSupportComp

@@ -71,7 +71,7 @@ public import Mathlib.Data.Fintype.BigOperators
 public import Formalism.RankGapBounds.RankGapProofs.WeightedMeanData
 public import Formalism.LandauZeroFreeBounds.ExceptionalZeroBounds.ZetaNegReal
 public import Formalism.ZeroFreeRegion.ZetaLogDerivativeBounds.DzDifferentiableOn
-public import Formalism.LocalRingCardinality.DataParams₂
+public import Formalism.LocalRingCardinality.DataParams2
 
 @[expose] public section
 

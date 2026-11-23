@@ -3,7 +3,7 @@ module
 public import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.NotDvdCondN
 public import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension
 public import Formalism.FrobeniusOrbits.HostCorollaries
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry₂.TateDualCrystalline
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry2.TateDualCrystalline
 public import Development.AbelianVarietyTheory.BlockTheory.ThetaLiftGeometry.CrystallineAtPlaces
 
 @[expose] public section

@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HeckeTateFunctionalEquationCM
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.HeckeTateFunctionalEquationCM
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GaussUnitsNormSq
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemPowOfPsiAtTrivial
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsIntWitness

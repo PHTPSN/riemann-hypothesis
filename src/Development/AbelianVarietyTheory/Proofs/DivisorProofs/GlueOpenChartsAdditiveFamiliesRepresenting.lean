@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.AbelianVarietyTheory.Definitions.Divisors.WhiskerLeftEqLift
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ExistsCrystalPairing
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.ExistsCrystalPairing
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PullLiftOneEqZero
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PullUnitEqZero
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RepresentableOver

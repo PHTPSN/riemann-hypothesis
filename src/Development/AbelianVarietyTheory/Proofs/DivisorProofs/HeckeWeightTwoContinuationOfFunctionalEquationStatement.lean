@@ -3,7 +3,7 @@ module
 public import Mathlib
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeckeWeightTwoContinuationOfFunctionalEquation
 public import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.OmegaFactorization
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.PartialZetaFunctionalEquation
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.PartialZetaFunctionalEquation
 
 @[expose] public section
 

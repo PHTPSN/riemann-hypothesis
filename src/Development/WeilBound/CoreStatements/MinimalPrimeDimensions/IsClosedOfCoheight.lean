@@ -4,7 +4,7 @@ public import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.Specia
 public import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.IsProjPrimeOfRelComps
 public import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.ResGAppLE
 public import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.LeDimQuotientHorizontal
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ResidueDegreeOfIsClosedImmersion
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.ResidueDegreeOfIsClosedImmersion
 public import GroundTheory.HeightsAndTheta.Heights.ArithmeticBezout.PCharacterised
 
 @[expose] public section

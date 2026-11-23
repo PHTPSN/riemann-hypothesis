@@ -4,9 +4,9 @@ public import Mathlib
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFieldCompletionTensorOfIsInertAt
 public import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.WeilTensorModels
 public import Development.AbelianVarietyTheory.Definitions.Divisors.DiscreteSeriesHermitianUnique
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry₂.HoweDualityGL
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HoweDualityUnitary
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ComplementaryThetaInert
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry2.HoweDualityGL
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.HoweDualityUnitary
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.ComplementaryThetaInert
 
 @[expose] public section
 

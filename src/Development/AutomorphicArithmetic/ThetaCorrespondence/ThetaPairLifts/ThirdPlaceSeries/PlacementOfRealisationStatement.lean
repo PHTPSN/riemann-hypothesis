@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeriesUnitary₂.DiscreteSeriesClassificationIff
+public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeriesUnitary2.DiscreteSeriesClassificationIff
 public import Formalism.LocalToGlobal.IndefiniteReal.RealPins
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsRowPlacementFiniteElementMatchesLevelsStatement
 public import Development.AbelianVarietyTheory.Proofs.FlagMeasures.StarCoeffOfEqReverse

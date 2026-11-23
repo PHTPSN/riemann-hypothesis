@@ -3,7 +3,7 @@ module
 public import Mathlib
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DelOperatorAtDbarOperatorAtLeibnizOfCommute
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsFormOneAddMulSmul
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsTypeIsRealConst
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.IsTypeIsRealConst
 public import ReciprocityTheory.L2DbarEstimates.ChartDerivatives.HoloSmooth
 public import Development.AbelianVarietyTheory.Definitions.Divisors.ExtFormAdjEqNegSecondForm
 public import Development.AbelianVarietyTheory.Definitions.Divisors.DiagValExtTraceNonneg

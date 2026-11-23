@@ -5,7 +5,7 @@ public import Formalism.SharpRestriction.LevelLetterCocycles.ArcLiftingSetup
 public import Formalism.SharpRestriction.LevelLetterCocycles.CrystallineLiftingBounds
 public import Formalism.SharpRestriction.LevelLetterCocycles.LetterConditionGlobal
 public import Formalism.GaloisCohomology.LocalTateDualityK
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.RationalDualityOfAllCoefficients
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.RationalDualityOfAllCoefficients
 public import Formalism.SharpRestriction.LevelLetterCocycles.FrobeniusStatementOfFontaine
 
 @[expose] public section

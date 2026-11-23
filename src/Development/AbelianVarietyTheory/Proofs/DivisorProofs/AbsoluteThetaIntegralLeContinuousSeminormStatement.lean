@@ -2,9 +2,9 @@ module
 
 public import Mathlib
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbsoluteThetaIntegralLeContinuousSeminorm
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.WeilThetaConvergence
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.WeilEisensteinSiegelConvergence
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.WeilSiegelFormula
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.WeilThetaConvergence
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.WeilEisensteinSiegelConvergence
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.WeilSiegelFormula
 
 @[expose] public section
 

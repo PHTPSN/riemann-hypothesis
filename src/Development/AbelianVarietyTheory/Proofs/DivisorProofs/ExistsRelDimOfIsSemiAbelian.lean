@@ -1,6 +1,6 @@
 module
 
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HenselianLocalRingOfIsAdicComplete
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.HenselianLocalRingOfIsAdicComplete
 public import Development.AbelianVarietyTheory.Definitions.AbelianSchemeLaws.FirstCohomologyVanishesSpecOfIsLocalRing
 public import Development.AbelianVarietyTheory.Definitions.Degenerations.ExistsGenPullTriv
 public import Development.AbelianVarietyTheory.Definitions.Uniformization.IsCPPullback

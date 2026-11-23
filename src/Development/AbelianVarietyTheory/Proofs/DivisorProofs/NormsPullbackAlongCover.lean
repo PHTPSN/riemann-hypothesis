@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormsOfInduces
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.EqOfIsometricTrivShift
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.EqOfIsometricTrivShift
 public import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsUniqueLiesUnder
 public import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.JGenSpecializes
 public import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FromModelNeg

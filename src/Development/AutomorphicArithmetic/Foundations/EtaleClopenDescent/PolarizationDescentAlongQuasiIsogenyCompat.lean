@@ -5,7 +5,7 @@ public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsQuasiI
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.PowCompMonHomOverSchemeGrpObj
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AdditiveOfTrivAxes
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlatSurjectiveQcPow
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsAdditiveOfUniversal
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.IsAdditiveOfUniversal
 
 @[expose] public section
 

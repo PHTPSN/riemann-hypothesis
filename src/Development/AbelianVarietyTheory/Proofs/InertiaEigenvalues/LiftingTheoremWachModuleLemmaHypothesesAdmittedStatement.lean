@@ -5,7 +5,7 @@ public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.Lifting
 public import Formalism.SharpRestriction.LevelLetterCocycles.CrystallineLiftingBounds
 public import Formalism.SharpRestriction.LevelLetterCocycles.LiftingTheory
 public import Formalism.GaloisCohomology.LocalTateDualityK
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.RationalDualityOfAllCoefficients
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.RationalDualityOfAllCoefficients
 
 @[expose] public section
 

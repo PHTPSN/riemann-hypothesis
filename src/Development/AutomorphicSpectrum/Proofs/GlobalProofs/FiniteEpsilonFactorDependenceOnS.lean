@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HeckeTateFunctionalEquationCM
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.HeckeTateFunctionalEquationCM
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.AbsNormDifferentEqProd
 public import GroundTheory.GlobalFields.TateThesis.RootNumberLocalFinite
 public import GroundTheory.GlobalFields.AnalyticClassNumber.HeckeContinued

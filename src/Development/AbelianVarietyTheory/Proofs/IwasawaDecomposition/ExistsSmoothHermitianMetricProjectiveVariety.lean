@@ -1,9 +1,9 @@
 module
 
 public import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.PolyRep
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.GoodTopChernForm
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ChernWeilNumbers
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.AntisymmFibrePointTwo
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.GoodTopChernForm
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.ChernWeilNumbers
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.AntisymmFibrePointTwo
 public import ReciprocityTheory.AnalyticForms.AnalyticCharts.Partition
 
 @[expose] public section

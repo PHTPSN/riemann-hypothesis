@@ -3,7 +3,7 @@ module
 public import Mathlib
 public import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.SlopeBoundOfConditionsWithErrorForFrames
 public import Formalism.SharpRestriction.Divisibility.WeightThresholdDefs
-public import Formalism.LocalRingCardinality.DataParams₂
+public import Formalism.LocalRingCardinality.DataParams2
 public import Development.AbelianVarietyTheory.Definitions.Divisors.IsLimDeg
 
 @[expose] public section

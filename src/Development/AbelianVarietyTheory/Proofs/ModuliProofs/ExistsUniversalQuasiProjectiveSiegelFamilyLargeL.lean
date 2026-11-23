@@ -17,7 +17,7 @@ public import Development.AbelianVarietyTheory.Definitions.Degenerations.HomExtS
 public import Development.AbelianVarietyTheory.Definitions.ModuliSpaces.FiniteHomogeneousInf
 public import Development.AbelianVarietyTheory.Statements.SemistableTorsion.ImmersedBy
 public import Development.AbelianVarietyTheory.Statements.SemistableTorsion.UTorsSt
-public import Development.AbelianVarietyTheory.PublishedTheorems.SemistableReduction₂.SemistableReductionSt
+public import Development.AbelianVarietyTheory.PublishedTheorems.SemistableReduction2.SemistableReductionSt
 
 @[expose] public section
 

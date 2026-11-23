@@ -2,12 +2,12 @@ module
 
 public import Mathlib
 public import Development.AbelianVarietyTheory.Definitions.Jets.SumIoPrAlt
-public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeries₂.DSExist
-public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeries₂.Zuckerman
-public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeries₂.Poulsen
+public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeries2.DSExist
+public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeries2.Zuckerman
+public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeries2.Poulsen
 public import Formalism.PeriodIntegrals.DSInfCharCap
 public import Formalism.PeriodIntegrals.LowCyc
-public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeriesUnitary₂.SubmatrixMemUJsetIff
+public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeriesUnitary2.SubmatrixMemUJsetIff
 
 @[expose] public section
 

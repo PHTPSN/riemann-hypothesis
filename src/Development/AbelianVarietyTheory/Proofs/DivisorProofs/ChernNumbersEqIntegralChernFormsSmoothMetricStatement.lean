@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ChernNumbersEqIntegralChernFormsSmoothMetric
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ChernWeilNumbers
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.ChernWeilNumbers
 
 @[expose] public section
 

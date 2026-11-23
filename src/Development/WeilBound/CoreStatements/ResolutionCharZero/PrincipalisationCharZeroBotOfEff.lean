@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.ResolutionOfSingularities.Statements
-public import Development.AutomorphicSpectrum.PublishedTheorems.Geometry₂.NotSubsetOfDenseCompl
+public import Development.AutomorphicSpectrum.PublishedTheorems.Geometry2.NotSubsetOfDenseCompl
 public import Development.ResolutionOfSingularities.Foundations.Blowup.BlowupCoproduct
 public import Development.WeilBound.CoreStatements.ResolutionCharZero.SupportStrictTransformUnion
 public import Development.ResolutionOfSingularities.HasSimpleNormalCrossingsOfInStrictNormalCrossing

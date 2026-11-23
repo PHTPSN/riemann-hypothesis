@@ -3,7 +3,7 @@ module
 public import Development.WeilBound.RepresentationTheoryGL.EisensteinSeries.SiegelEisensteinContinuation.DictInf
 public import Development.AbelianVarietyTheory.Definitions.LatticeFrames.ContinuesConst
 public import Development.AbelianVarietyTheory.Definitions.LatticeFrames.HalfData
-public import Development.AbelianVarietyTheory.PublishedTheorems.SiegelWeil₂.SiegelEisensteinContinuationOfDoublingMethod
+public import Development.AbelianVarietyTheory.PublishedTheorems.SiegelWeil2.SiegelEisensteinContinuationOfDoublingMethod
 
 @[expose] public section
 

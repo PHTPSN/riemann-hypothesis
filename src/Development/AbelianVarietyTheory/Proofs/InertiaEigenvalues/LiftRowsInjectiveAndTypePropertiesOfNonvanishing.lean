@@ -17,8 +17,8 @@ public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsA
 public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.TypeNZOfNonVanGen
 public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.IntegrableContAut
 public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.HeckeOfMemPartW
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ExistsNormLeHeightPow
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry₂.HoweUnram
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.ExistsNormLeHeightPow
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry2.HoweUnram
 public import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.GaussianBinomialClosedForm
 
 @[expose] public section

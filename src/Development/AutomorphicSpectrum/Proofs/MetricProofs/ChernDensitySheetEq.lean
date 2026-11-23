@@ -1,13 +1,13 @@
 module
 
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NontrivialIsomClassInt
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ArFormExists
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.ArFormExists
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.CodimOneIntegralSubschemeDim
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagBundleProductOfEach
 public import Development.AbelianVarietyTheory.Definitions.Divisors.GenericPointAsIdeal
 public import Development.AutomorphicSpectrum.Definitions.DivisibilityTowers.SheetUnsheet
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.EqOfIsometricTrivShift
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.EqOfIsometricTrivShift
 
 @[expose] public section
 

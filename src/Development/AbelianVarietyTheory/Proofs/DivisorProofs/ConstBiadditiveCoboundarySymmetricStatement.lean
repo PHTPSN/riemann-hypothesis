@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ConstBiadditiveCoboundarySymmetric
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.GaussManinPeriods
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.GaussManinPeriods
 public import Development.AbelianVarietyTheory.Definitions.Divisors.EllFamNontrivial
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DpExpEqSumRangeOfVanish
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.DividedPowerFiltration

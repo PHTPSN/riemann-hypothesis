@@ -6,8 +6,8 @@ public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsL
 public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.RecTransportFieldIso
 public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.LocalArtinExistsHolds
 public import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.GaussSumNeZeroOfRamified
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.BrauerDegreeZero
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.LocalArtinExists
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.BrauerDegreeZero
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.LocalArtinExists
 
 @[expose] public section
 

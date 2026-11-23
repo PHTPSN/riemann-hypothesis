@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.NotIsCompactUnivFv
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.EmbGLMemRealSU
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.EmbGLMemRealSU
 public import Development.AbelianVarietyTheory.Definitions.Foundations.CdScaleTieIff
 
 @[expose] public section

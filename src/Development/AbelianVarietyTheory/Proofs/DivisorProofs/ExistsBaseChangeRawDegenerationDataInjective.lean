@@ -1,7 +1,7 @@
 module
 
 public import Development.AbelianVarietyTheory.Definitions.Divisors.EvenDefect
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.SiegelToroidalPolCharts
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.SiegelToroidalPolCharts
 public import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.SecCmp
 public import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.ExistsPullbackDegPreStrictLineBundleIso
 

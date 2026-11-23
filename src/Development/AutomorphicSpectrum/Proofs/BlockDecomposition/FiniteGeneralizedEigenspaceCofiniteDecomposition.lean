@@ -2,8 +2,8 @@ module
 
 public import Mathlib
 public import Development.WeilBound.CoreStatements.TemperedRepresentationTheory.AffineGLForms.CuspInvariantsFinite.CuspInvFin
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.FiniteRankZero
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry₂.NotIsTemperedGLDetRepTwo
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.FiniteRankZero
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry2.NotIsTemperedGLDetRepTwo
 
 @[expose] public section
 

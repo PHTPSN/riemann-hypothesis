@@ -11,8 +11,8 @@ public import Development.AbelianVarietyTheory.Counterexamples.NonGaloisSurvey.C
 public import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ChiCrysOfConstituent
 public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.FontaineInequalityDcrisFiniteConcreteRings
 public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsFinExt
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.OneSubPhiOntoOfFilZero
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry₂.TateDualCrystalline
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.OneSubPhiOntoOfFilZero
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry2.TateDualCrystalline
 
 @[expose] public section
 

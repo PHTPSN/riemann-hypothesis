@@ -6,7 +6,7 @@ public import Formalism.HermitianLattices.HermitianLatticesProofs.MassTelescope
 public import Formalism.SharpRestriction.GlobalSchurBounds.ThickPlacesCorollaryOfAnyTranslate
 public import Formalism.FlagUnipotentLattices.CardSubgroupsOfIndexLe
 public import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ChartGen
-public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeriesUnitary₂.MaxMass
+public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeriesUnitary2.MaxMass
 public import Development.AbelianVarietyTheory.Proofs.FlagMeasures.LValEtaBounds
 
 @[expose] public section

@@ -9,7 +9,7 @@ public import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsIsFlag
 public import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsFlagModelHermSum
 public import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.OfSwap2
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.EqOfIsometricTrivShift
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.EqOfIsometricTrivShift
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictChernPart
 public import Development.AbelianVarietyTheory.Definitions.Divisors.GenericPointAsIdeal
 public import ReciprocityTheory.AnalyticForms.PotentialTheory.PotentialContDiffAt

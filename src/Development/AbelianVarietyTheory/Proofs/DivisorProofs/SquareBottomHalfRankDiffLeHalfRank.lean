@@ -2,9 +2,9 @@ module
 
 public import Mathlib
 public import Development.AbelianVarietyTheory.Statements.PlaceShiftStatements.NormSmall
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HeckeFunctionalEquationAbs
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.HeckeFunctionalEquationAbs
 public import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.CompletedLStripBounds
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsCMTypeEmbedding
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.IsCMTypeEmbedding
 public import Development.AbelianVarietyTheory.Definitions.Divisors.IsValCharTwist
 public import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsIsHeckeLOfHasInf
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeckeLNeZeroNat

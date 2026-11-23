@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ArtinMapAbelianUnique
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ExistsEqOfNatCastMulMem
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.ExistsEqOfNatCastMulMem
 public import GroundTheory.GlobalFields.ComplexMultiplication.MainTheorem
 
 @[expose] public section

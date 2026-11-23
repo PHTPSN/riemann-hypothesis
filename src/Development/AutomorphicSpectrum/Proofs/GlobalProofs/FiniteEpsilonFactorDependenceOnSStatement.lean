@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.AutomorphicSpectrum.Proofs.GlobalProofs.FiniteEpsilonFactorDependenceOnS
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HeckeTateFunctionalEquationCM
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.HeckeTateFunctionalEquationCM
 public import GroundTheory.GlobalFields.TateThesis.RootNumberLocalFinite
 public import GroundTheory.GlobalFields.AnalyticClassNumber.HeckeContinued
 public import Development.AutomorphicSpectrum.Proofs.GlobalProofs.ContinuousIdeleCircle

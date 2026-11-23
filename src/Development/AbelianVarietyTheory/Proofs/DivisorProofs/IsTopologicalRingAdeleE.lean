@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ExistsRationalDblCoord
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.ExistsRationalDblCoord
 public import Development.AbelianVarietyTheory.Definitions.Foundations.AnalyticOnNhdTsumNpow
 public import Development.AbelianVarietyTheory.Definitions.Foundations.IsIwasawaOfIsCompact
 

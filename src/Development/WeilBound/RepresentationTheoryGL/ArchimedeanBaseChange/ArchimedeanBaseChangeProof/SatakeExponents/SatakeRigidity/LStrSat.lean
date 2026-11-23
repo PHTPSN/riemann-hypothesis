@@ -7,7 +7,7 @@ public import Development.WeilBound.RepresentationTheoryGL.ResidualSpectrum.Slic
 public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpehDataUnique
 public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SatakeParameterSphericalProductSpehQuotients
 public import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.ExistsIsLocCompAndIsLocLoc
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.AbsPowOneNotIsAlgRat
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.AbsPowOneNotIsAlgRat
 
 @[expose] public section
 

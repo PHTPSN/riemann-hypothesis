@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.GreenCuspidalIff
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.GreenCuspidalIff
 public import Formalism.UnipotentAdelicQuotients.CuspidalCharExists
 public import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.MemRootsBarXSubC
 public import Formalism.LocalToGlobal.Divisibility.ProjLemmas

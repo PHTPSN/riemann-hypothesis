@@ -5,7 +5,7 @@ public import GroundTheory.GlobalFields.AnalyticClassNumber.HeckeContinued
 public import GroundTheory.GlobalFields.TateThesis.RootNumberLocalFinite
 public import GroundTheory.GlobalFields.IdeleGroups.ClassGroup
 public import GroundTheory.GlobalFields.TateThesis.HeckeCharRayClass
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.PartialZetaFunctionalEquation
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.PartialZetaFunctionalEquation
 
 @[expose] public section
 

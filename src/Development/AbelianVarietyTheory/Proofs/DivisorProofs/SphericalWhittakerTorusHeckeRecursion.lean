@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.AbelianVarietyTheory.Definitions.Divisors.IsAddHaarMeasureVolumeLie
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.StrongMultiplicityOne
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.StrongMultiplicityOne
 public import GroundTheory.AutomorphicForms.MacdonaldHecke
 public import GroundTheory.GlobalFields.LocalFieldAtPlace
 public import GroundTheory.GlobalFields.CompletionAtPlace.Inertia

@@ -8,7 +8,7 @@ public import Formalism.SatakeDualWeyl.AdelicIwasawaHecke.Stdform
 public import Formalism.HermitianLattices.HermitianLatticesProofs.DualLattice
 public import Formalism.HermitianLattices.HermitianLatticesProofs.GenusCovol
 public import Development.AbelianVarietyTheory.Definitions.SemilocalFrames.ChartGen
-public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeriesUnitary₂.MaxMass
+public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeriesUnitary2.MaxMass
 
 @[expose] public section
 

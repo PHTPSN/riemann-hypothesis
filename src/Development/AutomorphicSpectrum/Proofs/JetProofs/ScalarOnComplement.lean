@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AutomorphicSpectrum.PublishedTheorems.Jets₂.IsPermissibleOfCentre
+public import Development.AutomorphicSpectrum.PublishedTheorems.Jets2.IsPermissibleOfCentre
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.MaxCompactIrreducibleHasHighestWeightAndIso
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.AdmissibleUnitaryKFinite
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.LeviSubmoduleDense

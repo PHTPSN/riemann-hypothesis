@@ -3,7 +3,7 @@ module
 public import Mathlib
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SerreHolomorphicSectionsHolds
 public import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.CompactSpacePts
-public import Development.AutomorphicSpectrum.PublishedTheorems.Geometry₂.GagaSections
+public import Development.AutomorphicSpectrum.PublishedTheorems.Geometry2.GagaSections
 public import Development.WeilBound.CoreStatements.ProjectiveValuations.CompactSpaceComplexPointsOfProper
 
 @[expose] public section

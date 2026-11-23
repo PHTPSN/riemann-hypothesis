@@ -1,7 +1,7 @@
 module
 
 public import Formalism.SharpRestriction.LevelLetterCocycles.ArithmeticCylinders
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.GreenRegularCharacters
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.GreenRegularCharacters
 
 @[expose] public section
 

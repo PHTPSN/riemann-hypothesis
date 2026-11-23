@@ -3,7 +3,7 @@ module
 public import Mathlib
 public import Development.AbelianVarietyTheory.Definitions.Divisors.SumExpSt
 public import Development.AbelianVarietyTheory.Definitions.Divisors.HasBlockOfOccurs
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.BhattScholzeCrystallineLattices
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.BhattScholzeCrystallineLattices
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LinIndMapRangeField
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TotalDegreeLeOfColW
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ValuesMemOfLocal

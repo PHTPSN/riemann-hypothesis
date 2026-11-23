@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.EqZeroOfCobOneEqZero
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.EqZeroOfCobOneEqZero
 
 @[expose] public section
 

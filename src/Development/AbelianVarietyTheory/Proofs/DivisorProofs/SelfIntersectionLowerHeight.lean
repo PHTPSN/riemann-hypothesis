@@ -1,9 +1,9 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.VolHomog
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.VolGe
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.EqOfIsometricTrivShift
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.VolHomog
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.VolGe
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.EqOfIsometricTrivShift
 
 @[expose] public section
 

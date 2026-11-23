@@ -1,7 +1,7 @@
 module
 
 public import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.DepthPays
-public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeriesUnitary₂.DiscreteSeriesCoefficientsCuspidalIffOneSided
+public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeriesUnitary2.DiscreteSeriesCoefficientsCuspidalIffOneSided
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.MeasurePreservingMulRight
 
 @[expose] public section

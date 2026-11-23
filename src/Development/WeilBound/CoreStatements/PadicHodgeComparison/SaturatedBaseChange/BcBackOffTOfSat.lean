@@ -5,7 +5,7 @@ public import Development.AbelianVarietyTheory.Definitions.Divisors.IsIntegralOp
 public import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.IsUnitarisableTrivChar
 public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.SpehShapeIffOfDiscreteSpectrum
 public import Development.AbelianVarietyTheory.Proofs.InertiaEigenvalues.ExistsEquivOfIsSubquotient
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry₂.DualIsConjOfIsCsd
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry2.DualIsConjOfIsCsd
 
 @[expose] public section
 

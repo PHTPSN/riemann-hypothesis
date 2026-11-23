@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Formalism.LocalRingCardinality.DataParams₂
+public import Formalism.LocalRingCardinality.DataParams2
 public import Formalism.SharpRestriction.LevelLetterCocycles.QuotientHomNonvanishingBound
 public import Formalism.WeaklyAdmissibleFiltrations.StatementTor
 public import Formalism.GaloisCohomology.Statement

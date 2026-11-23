@@ -5,7 +5,7 @@ public import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.Exist
 public import Formalism.LocalToGlobal.IndefiniteReal.ConcretePkgSpec
 public import Formalism.LocalRingCardinality.DataExtra
 public import Formalism.LocalRingCardinality.DataTies
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ExistsNormLeHeightPow
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.ExistsNormLeHeightPow
 
 @[expose] public section
 

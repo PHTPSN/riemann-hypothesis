@@ -16,7 +16,7 @@ public import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.HsOpInte
 public import Mathlib
 public import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.CKContinuous
 public import ReciprocityTheory.ReductiveGroups.DiscreteSeries.CasimirCoefficients.PsiFor
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.FormalDegreeCompactDualIff
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.FormalDegreeCompactDualIff
 public import Development.AbelianVarietyTheory.Proofs.FlagMeasures.HarishChandraFormalDegreeCompactDualLargeGaps
 
 @[expose] public section

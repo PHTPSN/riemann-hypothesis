@@ -8,7 +8,7 @@ public import Development.WeilBound.CoreStatements.AutomorphicKernels.IsobaricBa
 public import Development.WeilBound.CoreStatements.AutomorphicKernels.IsobaricBaseChange.SplitSph
 public import Development.WeilBound.CoreStatements.AutomorphicKernels.IsobaricBaseChange.UnramB
 public import Development.WeilBound.RepresentationTheoryGL.ResidualSpectrum.SliceTensors.TwistedSlicesSquareIntegrable
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.BaseChangeIsobaric
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.BaseChangeIsobaric
 
 @[expose] public section
 

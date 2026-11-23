@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.AutomorphicSpectrum.Proofs.GlobalProofs.FiniteDimensionalOfSlices
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.LeviBlockCentreFinite
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.LeviBlockCentreFinite
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsBlockEmb
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsBlockEmb
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.BlockEmbNormalises

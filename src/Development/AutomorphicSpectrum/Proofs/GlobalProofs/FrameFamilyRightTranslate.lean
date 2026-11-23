@@ -4,7 +4,7 @@ public import Mathlib
 public import Development.AutomorphicSpectrum.Proofs.GlobalProofs.IsAdaptedEmpty
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsSmMulRightOfIsCMExt
 public import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.RightTranslateCommutesCenterAction
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.FiniteDimensionalCoeffSpan
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.FiniteDimensionalCoeffSpan
 public import Development.AbelianVarietyTheory.Proofs.HeightProofs.AdelicUnitaryActionAtRealPlace
 
 @[expose] public section

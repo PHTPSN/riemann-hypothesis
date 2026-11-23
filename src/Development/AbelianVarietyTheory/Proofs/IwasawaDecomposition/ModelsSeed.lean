@@ -3,7 +3,7 @@ module
 public import Mathlib
 public import Formalism.LocalToGlobal.IndefiniteReal.FrameExistence.InitialDataUntwistedOfModelChoice
 public import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.JEvExists
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.DsExistsOfDiscreteSeriesExists
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.DsExistsOfDiscreteSeriesExists
 public import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.GoodParParBLast
 
 @[expose] public section

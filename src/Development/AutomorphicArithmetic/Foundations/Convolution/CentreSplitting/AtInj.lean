@@ -4,7 +4,7 @@ public import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSp
 public import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.ExSummand
 public import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.SSatIff
 public import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.StrongMultiplicityOne.Strong
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.StrongMultiplicityOne
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.StrongMultiplicityOne
 public import Development.AutomorphicArithmetic.Foundations.Convolution.CentreSplitting.DefsObj
 
 @[expose] public section

@@ -1,7 +1,7 @@
 module
 
 public import Development.WeilBound.CoreStatements.FiniteTypeHarishChandra.LabelMapNonempty
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.GreenCuspidalIff
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.GreenCuspidalIff
 
 @[expose] public section
 

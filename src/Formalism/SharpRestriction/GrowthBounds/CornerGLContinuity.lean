@@ -1,6 +1,6 @@
 module
 
-public import Formalism.LocalRingCardinality.DataParams₂
+public import Formalism.LocalRingCardinality.DataParams2
 public import Formalism.SharpRestriction.ParConsts
 public import Formalism.SharpRestriction.ElevenLe
 public import Formalism.SharpRestriction.GrowthBounds.UnramifiedQuadraticSetting

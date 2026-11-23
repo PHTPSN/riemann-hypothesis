@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.AbelianVarietyTheory.Definitions.Divisors.TorsTransport
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HilbertKodairaSpencer
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.HilbertKodairaSpencer
 public import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.OmegaFactorization
 
 @[expose] public section

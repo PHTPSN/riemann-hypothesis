@@ -3,7 +3,7 @@ module
 public import Mathlib
 public import Development.AbelianVarietyTheory.Definitions.Divisors.SemiposAtOfPositive
 public import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.FormsOver
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.MumfordProportionality
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.MumfordProportionality
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FlagDegreeFormula
 public import Development.AbelianVarietyTheory.Definitions.Divisors.IsAlgAtlasAtlasOf
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.RestrictChernPart

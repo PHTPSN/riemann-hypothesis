@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.CubeTheorem
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.CubeTheorem
 public import CompanionTheory.AutomorphicTheory.TemperedLocalSpectra.CubicForms.ImportsBis
 
 @[expose] public section

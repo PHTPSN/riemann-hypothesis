@@ -13,7 +13,7 @@ public import Formalism.SharpRestriction.Divisibility.ModuliIntegralCharts
 public import Formalism.SharpRestriction.Divisibility.BoundaryLocalData
 public import Formalism.SharpRestriction.Divisibility.WeightThresholdDefs
 public import Formalism.SharpRestriction.Divisibility.WeightAlgebra
-public import Formalism.LocalRingCardinality.DataParams₂
+public import Formalism.LocalRingCardinality.DataParams2
 public import Formalism.DegreeFormula.FlagDegFormula
 public import Formalism.SharpRestriction.Divisibility.LatticeTransfer
 public import Formalism.SharpRestriction.Divisibility.PrinLevClass

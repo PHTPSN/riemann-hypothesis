@@ -1,6 +1,6 @@
 module
 
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.MetAndHolds
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.MetAndHolds
 public import Development.AutomorphicArithmetic.Foundations.LocalLanglands.LocalCentralUnits.ArtEx
 
 @[expose] public section

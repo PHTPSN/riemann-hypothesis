@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.AbelianVarietyTheory.Definitions.Divisors.TorsTransport
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ExistsEqOfNatCastMulMem
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.ExistsEqOfNatCastMulMem
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ClassInvOfUnitTrivial
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LatticePrincMulUnit
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HomothetyLatSum

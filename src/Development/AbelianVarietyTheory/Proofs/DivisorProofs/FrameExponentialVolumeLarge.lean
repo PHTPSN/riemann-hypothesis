@@ -20,7 +20,7 @@ public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.QuotientWeig
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.JetNumberQuotientBounds
 public import Development.AbelianVarietyTheory.Proofs.JetHarmonics.HalfPrincipalAndSplit
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeightConditionsAtIndex
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.GrothendieckDeformation
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.GrothendieckDeformation
 public import Development.AbelianVarietyTheory.Definitions.Divisors.CovolXOfCovol
 public import Development.AbelianVarietyTheory.Definitions.Divisors.CuspIso
 public import Development.AbelianVarietyTheory.Definitions.Divisors.WellChosen

@@ -8,7 +8,7 @@ public import Formalism.SharpRestriction.CuspSpanNormBounds.BranchingAndRankCons
 public import Formalism.SharpRestriction.CuspSpanNormBounds.SBridge
 public import Development.AbelianVarietyTheory.Statements.DiscreteSeriesShifts.ThmBpDS
 public import Development.AbelianVarietyTheory.Definitions.Jets.SideFam
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.FormalDegreeCompactDualIff
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.FormalDegreeCompactDualIff
 public import Development.AbelianVarietyTheory.Proofs.DecoratedLatticeProofs.ElementarySizeBoundsOfSizeHypothesesStatement
 
 @[expose] public section

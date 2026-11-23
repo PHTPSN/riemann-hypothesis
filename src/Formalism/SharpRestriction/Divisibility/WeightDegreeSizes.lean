@@ -19,7 +19,7 @@ public import Formalism.LocalRingCardinality.DataDIV
 public import Formalism.LocalRingCardinality.DataDIVDefs
 public import Formalism.LocalRingCardinality.DataErr
 public import Formalism.LocalRingCardinality.DataForced
-public import Formalism.LocalRingCardinality.DataParams₂
+public import Formalism.LocalRingCardinality.DataParams2
 public import Formalism.LocalRingCardinality.PrincipalHermitianLattice
 public import Formalism.LocalRingCardinality.DataTheta
 public import Formalism.LocalRingCardinality.RankBoundMonotoneInDimension

@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AutomorphicSpectrum.PublishedTheorems.Algebra₂.RegularHypothesesAndConclusion
+public import Development.AutomorphicSpectrum.PublishedTheorems.Algebra2.RegularHypothesesAndConclusion
 public import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.HasAffineChartId
 public import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.QuotientOfAffineChartCoverStatement
 public import Development.AutomorphicSpectrum.Proofs.AlgebraProofs.FreeActionAffineChartStatement

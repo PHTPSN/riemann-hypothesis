@@ -6,7 +6,7 @@ public import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.Univ
 public import Development.AbelianVarietyTheory.Definitions.NonGaloisDescent.NoFormsOff
 public import Development.AbelianVarietyTheory.Statements.HeckeThetaIntegrals.HkSupSizedOfHkSup
 public import Development.AbelianVarietyTheory.BlockTheory.TwistedDiscreteSeries.SplitOffDetection
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ExistsNormLeHeightPow
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.ExistsNormLeHeightPow
 
 @[expose] public section
 

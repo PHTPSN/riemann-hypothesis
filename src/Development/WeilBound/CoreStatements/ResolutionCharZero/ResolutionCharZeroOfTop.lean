@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.ResolutionOfSingularities.Statements
-public import Development.AutomorphicSpectrum.PublishedTheorems.Geometry₂.ConclusionOfSmooth
+public import Development.AutomorphicSpectrum.PublishedTheorems.Geometry2.ConclusionOfSmooth
 
 @[expose] public section
 

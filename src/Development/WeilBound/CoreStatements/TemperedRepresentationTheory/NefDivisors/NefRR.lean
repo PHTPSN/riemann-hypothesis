@@ -1,6 +1,6 @@
 module
 
-public import Development.AutomorphicSpectrum.PublishedTheorems.Geometry₂.ProjLineLimit
+public import Development.AutomorphicSpectrum.PublishedTheorems.Geometry2.ProjLineLimit
 public import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChartLatticeLeSpanNormStatement
 public import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChartLatticeSpanTwistShiftStatement
 public import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.FiniteDimensionalChartLatticeStatement

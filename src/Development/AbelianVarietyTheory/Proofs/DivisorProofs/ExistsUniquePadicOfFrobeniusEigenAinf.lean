@@ -3,7 +3,7 @@ module
 public import Mathlib
 public import Development.AbelianVarietyTheory.Definitions.Divisors.GhostFrobenius
 public import Development.AbelianVarietyTheory.Definitions.Divisors.MemMixedTsub
-public import Development.AutomorphicSpectrum.PublishedTheorems.Divisibility₂.PrismaticFilteredAtOfIntegersAt
+public import Development.AutomorphicSpectrum.PublishedTheorems.Divisibility2.PrismaticFilteredAtOfIntegersAt
 
 @[expose] public section
 

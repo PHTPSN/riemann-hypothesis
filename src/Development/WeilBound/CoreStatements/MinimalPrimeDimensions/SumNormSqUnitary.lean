@@ -3,7 +3,7 @@ module
 public import Mathlib
 public import Development.WeilBound.CoreStatements.MinimalPrimeDimensions.GenIdeal
 public import Development.WeilBound.CoreStatements.HomogeneousNonvanishing.VuSelfKnownTheorem
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.EqOfIsometricTrivShift
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.EqOfIsometricTrivShift
 
 @[expose] public section
 

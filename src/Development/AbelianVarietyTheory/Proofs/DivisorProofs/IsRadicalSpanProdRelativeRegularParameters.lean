@@ -3,7 +3,7 @@ module
 public import Mathlib
 public import Development.AbelianVarietyTheory.Definitions.Divisors.IsMumfordFamOfSubsingleton
 public import Development.AbelianVarietyTheory.Definitions.Divisors.IsThetaCompact
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.EqZeroIffSubsingleton
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.EqZeroIffSubsingleton
 public import ReciprocityTheory.AnalyticForms.RegularLocalRings.RegDom
 
 @[expose] public section

@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.ZeroCount
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.ZeroCount
 public import Development.AbelianVarietyTheory.Proofs.GlobalInterpolation.FinsumMemLeOfSubset
 
 @[expose] public section

@@ -22,7 +22,7 @@ public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.GlResidueSur
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SquareTowerStageFiniteFactor
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsMatchedFlipThetaIntegral
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.PolynomialRouteSubmodule
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HoweDualityReal
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.HoweDualityReal
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.IsReading
 public import Development.AbelianVarietyTheory.Statements.HeckeThetaIntegrals.ExistsNeZeroOfIsMatch
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.TripleFrameBaseExists
@@ -41,7 +41,7 @@ public import Development.AbelianVarietyTheory.Proofs.HeightProofs.EmbeddingXiZe
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ExistsLineOperatorPolynomial
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.RestrictionLineOperatorSum
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaEqB
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HoweDualityUnitary
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.HoweDualityUnitary
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaTransformDarbouxModelLinearInjective
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsFinPartNeZero
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EqOfComponentTensorAdelicFunctionEq
@@ -67,7 +67,7 @@ public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.DixmierCo
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.LsumMapDomainSome
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.FinFLin
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ThetaIntegralsOfMinguez
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry₂.HypothesesAbsDet
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry2.HypothesesAbsDet
 
 @[expose] public section
 

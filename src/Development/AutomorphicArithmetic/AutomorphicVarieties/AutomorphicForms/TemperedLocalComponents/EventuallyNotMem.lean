@@ -5,7 +5,7 @@ public import Development.AutomorphicArithmetic.AutomorphicVarieties.Automorphic
 public import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.ConjSep
 public import Development.AutomorphicArithmetic.AutomorphicVarieties.AutomorphicForms.TemperedLocalComponents.SatK
 public import Development.AbelianVarietyTheory.Proofs.SatakeParameters.ConjOpInvolutive
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry₂.DualIsConjOfIsCsd
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry2.DualIsConjOfIsCsd
 
 @[expose] public section
 

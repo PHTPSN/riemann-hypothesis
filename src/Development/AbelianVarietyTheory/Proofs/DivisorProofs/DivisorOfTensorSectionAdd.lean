@@ -1,8 +1,8 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.PrismaticDieudonnePerfd
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ScholzeWeinsteinB
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.PrismaticDieudonnePerfd
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.ScholzeWeinsteinB
 public import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsFlagModelHermSum
 public import Development.AbelianVarietyTheory.Definitions.Divisors.SemiposAtOfPositive
 public import Development.AbelianVarietyTheory.Definitions.Divisors.ToKnownTheoremsOf
@@ -12,7 +12,7 @@ public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.MemConeOfMem
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.NormsOfInduces
 public import Development.AbelianVarietyTheory.Definitions.QuasicoherentCohomology.FiniteCohPushforwardIffOfIsClosedImmersion
 public import Development.AbelianVarietyTheory.Definitions.AutomorphicMembership.DegFrame
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.EqOfIsometricTrivShift
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.EqOfIsometricTrivShift
 public import Development.AbelianVarietyTheory.Definitions.Divisors.ExistsUniqueLiesUnder
 public import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.JGenSpecializes
 public import Development.AbelianVarietyTheory.Proofs.IwasawaDecomposition.FromModelNeg

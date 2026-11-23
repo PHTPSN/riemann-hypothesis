@@ -1,8 +1,8 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry₂.HypothesesAbsDet
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry₂.HoweDualityGL
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry2.HypothesesAbsDet
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry2.HoweDualityGL
 public import Development.AbelianVarietyTheory.Proofs.SatakeParameters.OmQuotientTransposeInverseStatement
 public import Development.AbelianVarietyTheory.Proofs.SatakeParameters.OmQuotientTwistDetStatement
 public import Development.AbelianVarietyTheory.Proofs.SatakeParameters.OmQuotientTrivialRankZeroStatement

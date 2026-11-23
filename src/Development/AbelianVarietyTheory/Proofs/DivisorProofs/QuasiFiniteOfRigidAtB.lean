@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.AbelianVarietyTheory.Definitions.Divisors.FromBaseAlt
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.AdmissibleBaseChartRing
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.AdmissibleBaseChartRing
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.IsAlgebraicOfMemClosure
 
 @[expose] public section

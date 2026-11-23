@@ -3,7 +3,7 @@ module
 public import Development.AbelianVarietyTheory.Definitions.Divisors.EvenDefect
 public import Development.AbelianVarietyTheory.Definitions.Divisors.HasPolChartOf
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ToroidalCompactificationBis
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.ToroidalCompactificationBis
 public import Development.AbelianVarietyTheory.Proofs.DegenerationProofs.SecCmp
 public import Development.AbelianVarietyTheory.Proofs.ModuliProofs.NormalisedPolarisation
 public import Development.AbelianVarietyTheory.Proofs.UniformizationProofs.AllSixAbelianSchemeLawsHold

@@ -7,7 +7,7 @@ public import Development.AbelianVarietyTheory.BlockTheory.DivisorBase.VpBounds
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToricSumEqHeckeLValueMulAuxiliaryFactors
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinPartEqOneOfLevel
 public import Development.AbelianVarietyTheory.Definitions.Divisors.IsValCharTwist
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HeckeTateFunctionalEquationCM
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.HeckeTateFunctionalEquationCM
 public import Development.AbelianVarietyTheory.PublishedTheorems.TwistedTraceFormula.HeckeLPartialContinuationHolds
 
 @[expose] public section

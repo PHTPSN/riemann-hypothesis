@@ -1,6 +1,6 @@
 module
 
-public import Formalism.LocalRingCardinality.DataParams₂
+public import Formalism.LocalRingCardinality.DataParams2
 public import Formalism.ThetaLiftIndependence.FinalThetaLiftAMFKIndep
 public import Formalism.FrobeniusOrbits.HostCorollaries
 public import Formalism.LocalRingCardinality.HostCls

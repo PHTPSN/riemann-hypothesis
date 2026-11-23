@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsGenericIffIsGenericFor
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.IsGenericIffIsGenericFor
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.ParIndJacPlacing
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ExistsColReduced
 public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.IsOpenSetOfLeRank

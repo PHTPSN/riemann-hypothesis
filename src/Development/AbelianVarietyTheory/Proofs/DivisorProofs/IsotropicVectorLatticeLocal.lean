@@ -6,7 +6,7 @@ public import Development.AbelianVarietyTheory.Proofs.FlagMeasures.ExistsInteger
 public import Development.AbelianVarietyTheory.Proofs.FoundationProofs.ExistsUniqueIsConjAt
 public import Development.AbelianVarietyTheory.Definitions.Divisors.IsSquareIntegrableIffMemL2
 public import Development.AbelianVarietyTheory.Proofs.FoundationProofs.EventuallyAlgebraMapMemIntegers
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.EisensteinIsotropicLine
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.EisensteinIsotropicLine
 
 @[expose] public section
 

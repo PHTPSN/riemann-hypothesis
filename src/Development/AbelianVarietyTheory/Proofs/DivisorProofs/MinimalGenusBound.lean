@@ -21,7 +21,7 @@ public import Formalism.LocalToGlobal.IndefiniteForms.IndefiniteTree.RealCubicMe
 public import Development.AbelianVarietyTheory.Definitions.Divisors.GenRatios
 public import Development.AbelianVarietyTheory.Definitions.Divisors.BadElt
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.WeightParameterStrictAntitone
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.GrothendieckDeformation
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.GrothendieckDeformation
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.SizeBoundsForFamily
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LatticeLevelCharacterBound
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.LastWeightPositive

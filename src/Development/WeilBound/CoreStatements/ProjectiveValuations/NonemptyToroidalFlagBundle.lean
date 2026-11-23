@@ -4,7 +4,7 @@ public import Mathlib
 public import Formalism.LocalToGlobal.ProjectiveLattices.MulCMemSec
 public import Development.AbelianVarietyTheory.Proofs.UnitaryExistence.ExistsLevelGoodAtAllPrimesAndIdx
 public import Development.AutomorphicSpectrum.Definitions.GlobalGeometry.ExistsVanBdOfMemExtVanZ
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.DenseInterior
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.DenseInterior
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ToroidalFlagNonempty
 
 @[expose] public section

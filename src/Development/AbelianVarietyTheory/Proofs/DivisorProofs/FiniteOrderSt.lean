@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HilbertKodairaSpencer
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.HilbertKodairaSpencer
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.EffOfSec
 public import Development.AbelianVarietyTheory.Proofs.AbelianSchemeLawProofs.ExistsOddNeZero
 

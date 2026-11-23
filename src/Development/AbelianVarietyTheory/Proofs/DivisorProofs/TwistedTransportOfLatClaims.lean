@@ -8,7 +8,7 @@ public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HomothetyLat
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ClassInvOfUnitTrivial
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.FinPartEqOneOfLevel
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.ValCoordOfMemHatOUnits
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.CmCurveGoodOutsidePrimePremises
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.CmCurveGoodOutsidePrimePremises
 
 @[expose] public section
 

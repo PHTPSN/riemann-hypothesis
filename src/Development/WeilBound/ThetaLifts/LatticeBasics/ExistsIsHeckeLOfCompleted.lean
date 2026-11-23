@@ -2,8 +2,8 @@ module
 
 public import Mathlib
 public import Development.WeilBound.ThetaLifts.LatticeBasics.GoodNe
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.HeckeTateFunctionalEquationCM
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.IsCMTypeEmbedding
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.HeckeTateFunctionalEquationCM
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.IsCMTypeEmbedding
 public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.HeckeLNeZeroNat
 
 @[expose] public section

@@ -6,7 +6,7 @@ public import Development.AbelianVarietyTheory.Proofs.DivisorProofs.TypePlacesNo
 public import Formalism.LocalToGlobal.IndefiniteReal.EvalTieTOne
 public import Formalism.LocalToGlobal.IndefiniteReal.RationalEmbedding
 public import Formalism.LocalToGlobal.SiegelLatticeTheory.FlagStabilizerTensors.RowLevelMatch
-public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeriesUnitary₂.DiscreteSeriesClassificationIff
+public import Development.AbelianVarietyTheory.PublishedTheorems.DiscreteSeriesUnitary2.DiscreteSeriesClassificationIff
 
 @[expose] public section
 

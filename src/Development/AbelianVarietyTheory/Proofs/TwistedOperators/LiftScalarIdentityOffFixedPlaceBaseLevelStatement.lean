@@ -5,7 +5,7 @@ public import Development.AbelianVarietyTheory.Proofs.TwistedOperators.LiftScala
 public import Development.AbelianVarietyTheory.Definitions.Divisors.FormalDegreeUpperC
 public import Formalism.LocalToGlobal.IndefiniteReal.BaseLiftsPackageOfPrimitiveLinks
 public import Development.AbelianVarietyTheory.Definitions.TwistedInnerProducts.ConjScalarAtOf
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry₂.HoweUnram
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisGeometry2.HoweUnram
 public import Formalism.LocalToGlobal.IndefiniteReal.LinksStage
 
 @[expose] public section

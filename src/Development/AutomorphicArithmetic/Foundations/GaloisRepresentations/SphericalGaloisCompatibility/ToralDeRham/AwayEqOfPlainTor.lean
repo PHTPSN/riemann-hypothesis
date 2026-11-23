@@ -2,7 +2,7 @@ module
 
 public import Mathlib
 public import Development.AbelianVarietyTheory.Definitions.GaloisGeometry.CyclicStrongAtCusp
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.ArthurClozelLocalSC
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.ArthurClozelLocalSC
 public import Development.AutomorphicArithmetic.Foundations.GaloisRepresentations.SphericalGaloisCompatibility.ToralDeRham.RcUnlinkedChars
 public import Development.AbelianVarietyTheory.Proofs.SatakeParameters.PlainTorExistsChars
 public import Development.AbelianVarietyTheory.Proofs.SatakeParameters.SphericalContragredientMonomial

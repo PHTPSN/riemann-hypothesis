@@ -8,7 +8,7 @@ public import Development.DiscreteGroups.GlobalIrreducibility.DzTame
 public import Development.DiscreteGroups.GlobalIrreducibility.DzNormV
 public import Development.DiscreteGroups.GlobalIrreducibility.DzIneEq
 public import Development.DiscreteGroups.GlobalIrreducibility.ExistsIneOfVEqOne
-public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms₂.LocalLanglandsGL
+public import Development.AbelianVarietyTheory.PublishedTheorems.AutomorphicForms2.LocalLanglandsGL
 public import Development.DiscreteGroups.GlobalIrreducibility.DzGalW
 public import Development.AutomorphicArithmetic.Foundations.LocalLanglands.LocalCentralUnits.FinrankK
 public import Development.AutomorphicArithmetic.Foundations.LocalLanglands.LocalCentralUnits.TameRecAll

@@ -5,7 +5,7 @@ public import Formalism.SharpRestriction.Divisibility.WeightFamilies
 public import Formalism.LocalRingCardinality.RhoDetPrimeEqMuTildeMulChiPow
 public import Formalism.LocalRingCardinality.DataArith
 public import Formalism.LocalRingCardinality.SpanPowerMembership.Places
-public import Formalism.LocalRingCardinality.DataParams₂
+public import Formalism.LocalRingCardinality.DataParams2
 public import Formalism.LocalRingCardinality.DataDIV
 public import Formalism.LocalRingCardinality.DataParamsT
 public import Development.AbelianVarietyTheory.BlockTheory.HeightDefect.TotallyPositiveExponents

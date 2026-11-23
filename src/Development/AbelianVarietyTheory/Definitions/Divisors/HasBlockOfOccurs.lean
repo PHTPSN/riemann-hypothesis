@@ -3,8 +3,8 @@ module
 public import Mathlib
 public import Formalism.PieriBlockIdeals.LatticeInclusionRealSettingAlt
 public import Formalism.LocalToGlobal.Divisibility.RowLat
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.GaloisRepOfPolarizedCuspidal
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.HeckeLAdicCharacterAboveIff
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.GaloisRepOfPolarizedCuspidal
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.HeckeLAdicCharacterAboveIff
 
 @[expose] public section
 

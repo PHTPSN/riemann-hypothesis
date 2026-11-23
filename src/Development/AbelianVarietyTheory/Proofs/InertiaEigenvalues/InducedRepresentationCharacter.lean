@@ -1,7 +1,7 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology₂.BrauerDegreeZero
+public import Development.AbelianVarietyTheory.PublishedTheorems.GaloisCohomology2.BrauerDegreeZero
 public import Formalism.PeriodIntegrals.UnitaryGroupMassFormula.RealInducedCharacters.Induced
 
 @[expose] public section

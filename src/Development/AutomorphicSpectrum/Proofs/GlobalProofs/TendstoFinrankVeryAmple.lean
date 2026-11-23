@@ -1,9 +1,9 @@
 module
 
 public import Mathlib
-public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors₂.ExistsAlgClosedBaseChange
-public import Development.AutomorphicSpectrum.PublishedTheorems.Geometry₂.NefRR
-public import Development.AutomorphicSpectrum.PublishedTheorems.Geometry₂.ProjLineLimit
+public import Development.AbelianVarietyTheory.PublishedTheorems.Divisors2.ExistsAlgClosedBaseChange
+public import Development.AutomorphicSpectrum.PublishedTheorems.Geometry2.NefRR
+public import Development.AutomorphicSpectrum.PublishedTheorems.Geometry2.ProjLineLimit
 public import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChartLatticeLeSpanNorm
 public import Development.AutomorphicSpectrum.Proofs.BlockDecomposition.ChartLatticeSpanTwistShift
 public import GroundTheory.HeightsAndTheta.Heights.HilbertSamuel.StatementsKodairaGeneric
